@@ -1,0 +1,19 @@
+img.img {
+  float: inherit;
+}
+
+.sidebar {
+  float: inherit;
+}
+
+.columns {
+  width: 300px;
+  float: right;
+}
+
+.img2 {
+  margin: 12px;
+  border: 4px solid black;
+  padding: 8px;
+  background-color: gray;
+}
